@@ -1,3 +1,15 @@
 body {
   font-family: sans-serif;
 }
+
+.input_area {
+  background-color: #c1ffff;
+}
+
+.incomplete_area {
+  background-color: #c6ffe2;
+}
+
+.complete_area {
+  background-color: #ffffe0;
+}
